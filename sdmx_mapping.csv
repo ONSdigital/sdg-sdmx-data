@@ -1,4 +1,4 @@
-﻿CSV_colname,SDMX_concept,CSV_cellvalue,SDMX_codelist_item
+CSV_colname,SDMX_concept,CSV_cellvalue,SDMX_codelist_item
 Observation status,OBS_STATUS,Estimate,E
 Unit multiplier,UNIT_MULTIPLIER,Units,0
 Unit measure,UNIT_MEASURE,Percentage (%),PT
