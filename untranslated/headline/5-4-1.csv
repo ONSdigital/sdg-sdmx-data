@@ -1,1 +1,4 @@
-Year,Value
+Year,Value,Observation status,Unit multiplier,Unit measure
+2000,15.85552968,Estimate,Units,Percentage (%)
+2005,14.28326177,Estimate,Units,Percentage (%)
+2015,13.76121968,Estimate,Units,Percentage (%)
