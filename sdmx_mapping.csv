@@ -6,5 +6,7 @@ Unit measure,UNIT_MEASURE,Index,IX
 Unit measure,UNIT_MEASURE,"Rate per 1,000 live births",PER_100_LIVE_BIRTHS
 Sex,SEX,Male,M
 Sex,SEX,Female,F
+Sex,SEX,Total,_T
 Urban or Rural,URBANISATION,Urban,U
 Urban or Rural,URBANISATION,Rural,R
+Urban or Rural,URBANISATION,Total,_T
