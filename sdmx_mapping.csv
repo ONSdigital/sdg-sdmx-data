@@ -1,0 +1,4 @@
+﻿CSV_colval,OpenSDG_colval,CSV_itemval,OpenSDG_itemval
+Observation status,OBS_STATUS,Estimate,E
+Unit multiplier,UNIT_MULTIPLIER,Units,0
+Unit measure,UNIT_MEASURE,Percentage (%),PT
