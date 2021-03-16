@@ -1,10 +1,1 @@
-Year,Sex,Unit measure,Unit multiplier,Observation status,Value
-2000,,Percentage (%),Units,Estimate,15.85552968
-2005,,Percentage (%),Units,Estimate,14.28326177
-2015,,Percentage (%),Units,Estimate,13.76121968
-2000,Male,Percentage (%),Units,Estimate,13.16202296
-2000,Female,Percentage (%),Units,Estimate,19.76053203
-2005,Male,Percentage (%),Units,Estimate,12.20943845
-2005,Female,Percentage (%),Units,Estimate,18.60619407
-2015,Male,Percentage (%),Units,Estimate,11.79005689
-2015,Female,Percentage (%),Units,Estimate,16.65373352
+Year,Value
