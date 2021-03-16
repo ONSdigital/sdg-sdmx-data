@@ -55,6 +55,7 @@ inputs:
     git_data_dir: data
     
 sdmx_output:
+  dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
   concept_map: sdmx_mapping.csv
   dsd_languages:
     - en
