@@ -55,7 +55,7 @@ inputs:
     git_data_dir: data
     
 sdmx_output:
-  sdmx_mapping: sdmx_mapping.csv
+  concept_map: sdmx_mapping.csv
   dsd_languages:
     - en
 
