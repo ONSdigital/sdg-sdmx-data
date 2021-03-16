@@ -1,7 +1,7 @@
 from sdg.open_sdg import open_sdg_build
 import pandas as pd
 
-sdmx_mapping<-pd.read_csv('sdmx_mapping.csv')
+sdmx_mapping=pd.read_csv('sdmx_mapping.csv')
 
 def alter_data(data):
   for col in data.columns:
