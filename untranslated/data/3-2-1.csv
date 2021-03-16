@@ -1,7 +1,46 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Sex,Observation status,Unit multiplier,Unit measure,Value
+2000,,Estimate,Units,"Rate per 1,000 live births",6.55
+2001,,Estimate,Units,"Rate per 1,000 live births",6.44
+2002,,Estimate,Units,"Rate per 1,000 live births",6.19
+2003,,Estimate,Units,"Rate per 1,000 live births",6.25
+2004,,Estimate,Units,"Rate per 1,000 live births",5.86
+2005,,Estimate,Units,"Rate per 1,000 live births",5.9
+2006,,Estimate,Units,"Rate per 1,000 live births",5.75
+2007,,Estimate,Units,"Rate per 1,000 live births",5.55
+2008,,Estimate,Units,"Rate per 1,000 live births",5.32
+2009,,Estimate,Units,"Rate per 1,000 live births",5.18
+2010,,Estimate,Units,"Rate per 1,000 live births",4.9
+2011,,Estimate,Units,"Rate per 1,000 live births",4.81
+2012,,Estimate,Units,"Rate per 1,000 live births",4.58
+2013,,Estimate,Units,"Rate per 1,000 live births",4.47
+2014,,Estimate,Units,"Rate per 1,000 live births",4.23
+2015,,Estimate,Units,"Rate per 1,000 live births",4.29
+2000,Male,Estimate,Units,"Rate per 1,000 live births",7.19
+2000,Female,Estimate,Units,"Rate per 1,000 live births",5.88
+2004,Male,Estimate,Units,"Rate per 1,000 live births",6.38
+2004,Female,Estimate,Units,"Rate per 1,000 live births",5.3
+2005,Male,Estimate,Units,"Rate per 1,000 live births",6.58
+2005,Female,Estimate,Units,"Rate per 1,000 live births",5.18
+2006,Male,Estimate,Units,"Rate per 1,000 live births",6.23
+2006,Female,Estimate,Units,"Rate per 1,000 live births",5.25
+2007,Male,Estimate,Units,"Rate per 1,000 live births",6.15
+2007,Female,Estimate,Units,"Rate per 1,000 live births",4.92
+2008,Male,Estimate,Units,"Rate per 1,000 live births",5.79
+2008,Female,Estimate,Units,"Rate per 1,000 live births",4.83
+2009,Male,Estimate,Units,"Rate per 1,000 live births",5.55
+2009,Female,Estimate,Units,"Rate per 1,000 live births",4.78
+2010,Male,Estimate,Units,"Rate per 1,000 live births",5.27
+2010,Female,Estimate,Units,"Rate per 1,000 live births",4.51
+2011,Male,Estimate,Units,"Rate per 1,000 live births",5.43
+2011,Female,Estimate,Units,"Rate per 1,000 live births",4.15
+2012,Male,Estimate,Units,"Rate per 1,000 live births",5.05
+2012,Female,Estimate,Units,"Rate per 1,000 live births",4.08
+2013,Male,Estimate,Units,"Rate per 1,000 live births",4.86
+2013,Female,Estimate,Units,"Rate per 1,000 live births",4.05
+2014,Male,Estimate,Units,"Rate per 1,000 live births",4.56
+2014,Female,Estimate,Units,"Rate per 1,000 live births",3.88
+2015,Male,Estimate,Units,"Rate per 1,000 live births",4.85
+2015,Female,Estimate,Units,"Rate per 1,000 live births",3.7
+2016,,Estimate,Units,"Rate per 1,000 live births",4.415133545
+2016,Male,Estimate,Units,"Rate per 1,000 live births",4.68183864
+2016,Female,Estimate,Units,"Rate per 1,000 live births",4.133874971
