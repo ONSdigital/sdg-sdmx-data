@@ -8,4 +8,4 @@ Sex,SEX,Male,M
 Sex,SEX,Female,F
 Urban or Rural,URBANISATION,Urban,U
 Urban or Rural,URBANISATION,Rural,R
-Urban or Rural,URBANISATION,null,_T
+Urban or Rural,URBANISATION,,_T
