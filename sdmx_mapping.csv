@@ -1,12 +1,10 @@
-CSV_colname,SDMX_concept,CSV_cellvalue,SDMX_codelist_item
+﻿CSV_colname,SDMX_concept,CSV_cellvalue,SDMX_codelist_item
 Observation status,OBS_STATUS,Estimate,E
-Unit multiplier,UNIT_MULT,Units,0
+Unit multiplier,UNIT_MULTIPLIER,Units,0
 Unit measure,UNIT_MEASURE,Percentage (%),PT
 Unit measure,UNIT_MEASURE,Index,IX
-Unit measure,UNIT_MEASURE,"Rate per 1,000 live births",PER_100_LIVE_BIRTHS
+Unit measure,UNIT_MEASURE,"Rate per 1,000 live births",PER_1000_LIVE_BIRTHS
 Sex,SEX,Male,M
 Sex,SEX,Female,F
-Sex,SEX,Total,_T
 Urban or Rural,URBANISATION,Urban,U
 Urban or Rural,URBANISATION,Rural,R
-Urban or Rural,URBANISATION,Total,_T
