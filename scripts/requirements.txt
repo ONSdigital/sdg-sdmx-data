@@ -1,2 +1,2 @@
 git+https://github.com/dougmet/yamlmd
-git+https://github.com/brockfanning/sdg-build-1@sdmx-output-set-all-dimensions
+git+https://github.com/brockfanning/sdg-build-1@sdmx-mapping-2
