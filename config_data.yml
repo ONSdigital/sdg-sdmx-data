@@ -53,12 +53,12 @@ inputs:
     # need to change this setting. It is intended for sites where the data needs
     # to be "built" before being processed by sdg-build.
     git_data_dir: data
+  - class: InputWordMeta
+    path_pattern: sdmx_meta/*-*.docm
     
 sdmx_output:
   dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
-  concept_map: sdmx_mapping.csv
   sender_id: UK_ONS
-  structure_specific: False
   default_values: {REF_AREA: 826, URBANISATION: _T, SEX: _T}
 
 
