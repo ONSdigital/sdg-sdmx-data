@@ -85,96 +85,112 @@ prose:
             value: "UN metadata"
             scope: global
       ######### National Metadata #########
-      - name: "national_indicator_available"
+      - name: "SDG_GOAL"
         field:
             element: text
-            label: "Indicator available"
-            translation_key: metadata_fields.national_indicator_available
+            label: "SDG goal"
             scope: national
-      - name: "national_indicator_description"
+      - name: "SDG_TARGET"
         field:
             element: text
-            label: "Indicator description"
-            translation_key: metadata_fields.national_indicator_description
+            label: "SDG target"
             scope: national
-      - name: "national_geographical_coverage"
+      - name: "SDG_INDICATOR"
         field:
             element: text
-            label: "Geographical coverage"
-            translation_key: metadata_fields.national_geographical_coverage
+            label: "SDG indicator"
             scope: national
-      - name: "computation_units"
+      - name: "META_LAST_UPDATE"
         field:
             element: text
-            label: "Unit of measurement"
-            translation_key: metadata_fields.computation_units
+            label: "Metadata last updated"
             scope: national
-      - name: "computation_definitions"
+      - name: "SDG_RELATED_INDICATORS"
         field:
             element: textarea
-            label: "Definitions"
-            translation_key: metadata_fields.computation_definitions
+            label: "Related indicators"
             scope: national
-      - name: "computation_calculations"
+      - name: "SDG_CUSTODIAN_AGENCIES"
         field:
             element: text
-            label: "Calculations"
-            translation_key: metadata_fields.computation_calculations
+            label: "Custodian agencies"
             scope: national
-      - name: "other_info"
+      - name: "STAT_CONC_DEF"
         field:
             element: text
-            label: "Other information"
-            translation_key: metadata_fields.other_info
+            label: "Concepts and definitions"
             scope: national
-      - name: "quality_assurance"
+      - name: "SOURCE_TYPE"
         field:
             element: text
-            label: "Quality assurance"
-            translation_key: metadata_fields.quality_assurance
+            label: "Data sources"
             scope: national
-      - name: "international_comparability"
+      - name: "COLL_METHOD"
         field:
             element: text
-            label: "Comparability with international data/standards"
-            translation_key: metadata_fields.international_comparability
+            label: "Collection method"
             scope: national
-      - name: "comments_limitations"
+      - name: "FREQ_COLL"
+        field:
+            element: text
+            label: "Collection frequency"
+            scope: national
+      - name: "REL_CAL_POLICY"
+        field:
+            element: text
+            label: "Data release policy"
+            scope: national
+      - name: "DATA_SOURCE"
+        field:
+            element: text
+            label: "Data providers"
+            scope: national
+      - name: "COMPILING_ORG"
+        field:
+            element: text
+            label: "Data compilers"
+            scope: national
+      - name: "RATIONALE"
+        field:
+            element: text
+            label: "Rationale"
+            scope: national
+      - name: "REC_USE_LIM"
         field:
             element: text
             label: "Comments and limitations"
-            translation_key: metadata_fields.comments_limitations
             scope: national
-      - name: "rationale_interpretation"
+      - name: "DATA_COMP"
         field:
             element: text
-            label: "Rationale and interpretation"
-            translation_key: metadata_fields.rationale_interpretation
+            label: "Methodology"
             scope: national
-      - name: "national_data_update_url"
+      - name: "IMPUTATION"
         field:
-            element: hidden
-            label: "Data last updated"
-            translation_key: metadata_fields.national_data_update_url
+            element: text
+            label: "Imputation"
             scope: national
-      - name: "national_data_update_url_text"
+      - name: "REG_AGG"
         field:
-            element: hidden
-            label: "Data last updated"
-            translation_key: metadata_fields.national_data_update_url_text
+            element: text
+            label: "Regional aggregates"
             scope: national
-      - name: "national_metadata_update_url"
+      - name: "COVERAGE"
         field:
-            element: hidden
-            label: "Metadata last updated"
-            translation_key: metadata_fields.national_metadata_update_url
+            element: text
+            label: "Data availability"
             scope: national
-      - name: "national_metadata_update_url_text"
+      - name: "COMPARABILITY"
         field:
-            element: hidden
-            label: "Metadata last updated"
-            translation_key: metadata_fields.national_metadata_update_url_text
+            element: text
+            label: "Comparability"
             scope: national
+      - name: "OTHER_DOC"
+        field:
+            element: text
+            label: "References"
+            scope: national
+      
        ######### Data Info #########
       - name: "reporting_status"
         field:
