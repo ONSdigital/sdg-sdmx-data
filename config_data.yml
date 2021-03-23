@@ -58,6 +58,7 @@ inputs:
     
 sdmx_output:
   dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
+  concept_map: sdmx_mapping.csv
   sender_id: UK_ONS
   default_values: {REF_AREA: 826, URBANISATION: _T, SEX: _T}
 
