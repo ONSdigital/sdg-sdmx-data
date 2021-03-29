@@ -1,2 +1,2 @@
 git+https://github.com/dougmet/yamlmd
-git+https://github.com/open-sdg/sdg-build@sdmx-map-with-bugfix
+git+https://github.com/open-sdg/sdg-build@sdmx-map
