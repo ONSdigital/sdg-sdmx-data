@@ -146,6 +146,17 @@
       "schema": {
         "fields": [
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y_GE15",
+                "Y_GE21"
+              ]
+            }
+          },
+          {
             "name": "Observation status",
             "type": "string"
           },
