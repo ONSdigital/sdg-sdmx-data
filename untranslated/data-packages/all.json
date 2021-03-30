@@ -13,6 +13,16 @@
       "schema": {
         "fields": [
           {
+            "name": "Age Range",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "5 to 9"
+              ]
+            }
+          },
+          {
             "name": "Observation status",
             "type": "string"
           },
@@ -80,6 +90,16 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y12T17"
+              ]
+            }
+          },
           {
             "name": "Observation status",
             "type": "string"
