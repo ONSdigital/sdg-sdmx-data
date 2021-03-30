@@ -60,6 +60,7 @@ sdmx_output:
   code_map: code_mapping.csv
   sender_id: UK_ONS
   default_values: {REF_AREA: 826, URBANISATION: _T, SEX: _T}
+  constrain_data: true
 
 
 # Translations
