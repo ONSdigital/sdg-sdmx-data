@@ -22,9 +22,9 @@ Year,Age,Observation status,Unit multiplier,Unit measure,Value
 2011,Y_GE15,Estimate,Units,Percentage (%),0.4
 2012,Y_GE15,Estimate,Units,Percentage (%),0.2
 2013,Y_GE15,Estimate,Units,Percentage (%),0.2
-2014,Y_GE21,Estimate,Units,Percentage (%),0.2
-2015,Y_GE21,Estimate,Units,Percentage (%),0.1
-2016,Y_GE21,Estimate,Units,Percentage (%),0.2
+2014,Y_GE15,Estimate,Units,Percentage (%),0.2
+2015,Y_GE15,Estimate,Units,Percentage (%),0.1
+2016,Y_GE15,Estimate,Units,Percentage (%),0.2
 2004,Y_GE21,Estimate,Units,Percentage (%),0.4
 2005,Y_GE21,Estimate,Units,Percentage (%),0.5
 2006,Y_GE21,Estimate,Units,Percentage (%),0.2
