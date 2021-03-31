@@ -11,7 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Age Range",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [

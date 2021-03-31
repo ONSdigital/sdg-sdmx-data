@@ -13,7 +13,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Age Range",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -21,7 +21,7 @@
                 "5 to 9"
               ]
             },
-            "title": "Age Range"
+            "title": "Age"
           },
           {
             "name": "Observation status",
