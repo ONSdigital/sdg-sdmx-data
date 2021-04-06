@@ -92,6 +92,11 @@
             "title": "Observation status"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
             "name": "Unit measure",
             "type": "string",
             "title": "Unit measure"
