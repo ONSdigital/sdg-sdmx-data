@@ -54,7 +54,7 @@ inputs:
     # to be "built" before being processed by sdg-build.
     git_data_dir: data
   - class: InputWordMeta
-    path_pattern: meta/*-*.docm
+    path_pattern: sdmx_meta/*-*.docm
     
 sdmx_output:
   dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
