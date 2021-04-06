@@ -85,110 +85,215 @@ prose:
             value: "UN metadata"
             scope: global
       ######### National Metadata #########
+      - name: "SDG_INDICATOR_INFO"
+        field:
+            element: text
+            label: "0. Indicator information"
+            scope: national
       - name: "SDG_GOAL"
         field:
             element: text
-            label: "SDG goal"
+            label: "0.a. Goal"
             scope: national
       - name: "SDG_TARGET"
         field:
             element: text
-            label: "SDG target"
+            label: "0.b. Target"
             scope: national
       - name: "SDG_INDICATOR"
         field:
             element: text
-            label: "SDG indicator"
+            label: "0.c. Indicator"
             scope: national
+      - name: "SDG_SERIES_DESCR"
+        field:
+            element: text
+            label: "0.d. Series"
+            scope: national      
       - name: "META_LAST_UPDATE"
         field:
             element: text
-            label: "Metadata last updated"
+            label: "0.e. Metadata update"
             scope: national
       - name: "SDG_RELATED_INDICATORS"
         field:
             element: textarea
-            label: "Related indicators"
+            label: "0.f. Related indicators"
             scope: national
       - name: "SDG_CUSTODIAN_AGENCIES"
         field:
             element: text
-            label: "Custodian agencies"
+            label: "0.g. International organisations(s) responsible for global monitoring"
+            scope: national
+      - name: "CONTACT"
+        field:
+            element: textarea
+            label: "1. Data reporter"
+            scope: national
+      - name: "CONTACT_ORGANISATION"
+        field:
+            element: textarea
+            label: "1.a. Organisation"
+            scope: national
+      - name: "ORGANISATION_UNIT"
+        field:
+            element: textarea
+            label: "1.c. Contact Organisation Unit"
+            scope: national
+      - name: "CONTACT_FUNCT"
+        field:
+            element: textarea
+            label: "1.d. Contact Person Function"
+            scope: national
+      - name: "CONTACT_PHONE"
+        field:
+            element: textarea
+            label: "1.d. Contact Phone"
+            scope: national
+      - name: "CONTACT_MAIL"
+        field:
+            element: textarea
+            label: "1.d. Contact Mail"
+            scope: national
+      - name: "CONTACT_EMAIL"
+        field:
+            element: textarea
+            label: "1.d. Contact emails"
+            scope: national
+      - name: "IND_DEF_CON_CLASS"
+        field:
+            element: textarea
+            label: "2. Definition, concepts and classifications"
             scope: national
       - name: "STAT_CONC_DEF"
         field:
             element: text
-            label: "Concepts and definitions"
+            label: "2.a. Concepts and definitions"
+            scope: national
+      - name: "UNIT_MEASURE"
+        field:
+            element: text
+            label: "2.b. Unit of Measure"
+            scope: national
+      - name: "CLASS_SYSTEM"
+        field:
+            element: text
+            label: "2.c. Classifications"
+            scope: national
+      - name: "SRC_TYPE_COLL_METHOD"
+        field:
+            element: text
+            label: "3. Data source type and data collection method"
             scope: national
       - name: "SOURCE_TYPE"
         field:
             element: text
-            label: "Data sources"
+            label: "3.a. Data sources"
             scope: national
       - name: "COLL_METHOD"
         field:
             element: text
-            label: "Collection method"
+            label: "3.b. Data collection method"
             scope: national
       - name: "FREQ_COLL"
         field:
             element: text
-            label: "Collection frequency"
+            label: "3.c. Data collection calendar"
             scope: national
       - name: "REL_CAL_POLICY"
         field:
             element: text
-            label: "Data release policy"
+            label: "3.d. Data release calendar"
             scope: national
       - name: "DATA_SOURCE"
         field:
             element: text
-            label: "Data providers"
+            label: "3.e. Data providers"
             scope: national
       - name: "COMPILING_ORG"
         field:
             element: text
-            label: "Data compilers"
+            label: "3.f. Data compilers"
+            scope: national
+      - name: "INST_MANDATE"
+        field:
+            element: text
+            label: "3.g. Institutional Mandate"
+            scope: national
+      - name: "OTHER_METHOD"
+        field:
+            element: text
+            label: "4. Other methodological considerations"
             scope: national
       - name: "RATIONALE"
         field:
             element: text
-            label: "Rationale"
+            label: "4.a. Rationale"
             scope: national
       - name: "REC_USE_LIM"
         field:
             element: text
-            label: "Comments and limitations"
+            label: "4.b. Comments and limitations"
             scope: national
       - name: "DATA_COMP"
         field:
             element: text
-            label: "Methodology"
+            label: "4.c. Method of computation"
             scope: national
+      - name: "DATA_VALIDATION"
+        field:
+            element: text
+            label: "4.d. Validation"
+            scope: national
+      - name: "ADJUSTMENT"
+        field:
+            element: text
+            label: "4.e. Adjustments"
+            scope: national    
       - name: "IMPUTATION"
         field:
             element: text
-            label: "Imputation"
+            label: "4.f. Treatment of missing values (i) at country level and (ii) at regional level"
             scope: national
       - name: "REG_AGG"
         field:
             element: text
-            label: "Regional aggregates"
+            label: "4.g. Regional aggregations"
+            scope: national
+      - name: "DOC_METHOD"
+        field:
+            element: text
+            label: "4.h. Methods and guidance available to countries for the compilation of the data at the national level"
+            scope: national
+      - name: "QUALITY_MGMNT"
+        field:
+            element: text
+            label: "4.i. Quality management"
+            scope: national
+      - name: "QUALITY_ASSURE"
+        field:
+            element: text
+            label: "4.j. Quality assurance"
+            scope: national
+      - name: "QUALITY_ASSMNT"
+        field:
+            element: text
+            label: "4.k. Quality assessment"
             scope: national
       - name: "COVERAGE"
         field:
             element: text
-            label: "Data availability"
+            label: "5. Data availability and disaggregation"
             scope: national
       - name: "COMPARABILITY"
         field:
             element: text
-            label: "Comparability"
+            label: "6. Comparability / Deviation from international standards"
             scope: national
       - name: "OTHER_DOC"
         field:
             element: text
-            label: "References"
+            label: "7. References and Documentation"
             scope: national
       
        ######### Data Info #########
