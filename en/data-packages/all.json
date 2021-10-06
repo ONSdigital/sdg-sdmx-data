@@ -251,7 +251,7 @@
           }
         ]
       },
-      "title": "Under‐five mortality rate"
+      "title": "Under‐5 mortality rate"
     },
     {
       "path": "1-1-1/data.csv",
@@ -307,7 +307,7 @@
           }
         ]
       },
-      "title": "Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)"
+      "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
       "path": "11-3-1/data.csv",
@@ -451,7 +451,7 @@
           }
         ]
       },
-      "title": "Total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage, by type of heritage (cultural, natural, mixed and World Heritage Centre designation), level of government (national, regional and local/municipal), type of expenditure (operating expenditure/investment) and type of private funding (donations in kind, private non-profit sector and sponsorship)"
+      "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
     },
     {
       "path": "3-4-1/data.csv",
@@ -619,7 +619,7 @@
           }
         ]
       },
-      "title": "Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+      "title": "Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
     },
     {
       "path": "7-a-1/data.csv",
@@ -715,7 +715,7 @@
           }
         ]
       },
-      "title": "Number of countries implementing sustainable public procurement policies and action plans"
+      "title": "Degree of sustainable public procurement policies and action plan implementation"
     },
     {
       "path": "16-9-1/data.csv",
@@ -931,7 +931,7 @@
           }
         ]
       },
-      "title": "Financial Soundness Indicators (FSIs)"
+      "title": "Financial Soundness Indicators"
     },
     {
       "path": "8-3-1/data.csv",
@@ -955,7 +955,7 @@
           }
         ]
       },
-      "title": "Proportion of informal employment in non‐agriculture employment, by sex"
+      "title": "Proportion of informal employment in total employment, by sector and sex"
     },
     {
       "path": "1-5-3/data.csv",
@@ -1003,7 +1003,7 @@
           }
         ]
       },
-      "title": "Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems"
+      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
     },
     {
       "path": "15-4-2/data.csv",
@@ -1123,7 +1123,7 @@
           }
         ]
       },
-      "title": "Average tariffs faced by developing countries, least developed countries and small island developing States"
+      "title": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
     },
     {
       "path": "17-9-1/data.csv",
@@ -1243,7 +1243,7 @@
           }
         ]
       },
-      "title": "Number of least developed countries and small island developing States that are receiving specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management, including focusing on women, youth and local and marginalized communities"
+      "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
     },
     {
       "path": "17-6-1/data.csv",
@@ -1267,7 +1267,7 @@
           }
         ]
       },
-      "title": "Number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation"
+      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
     },
     {
       "path": "7-3-1/data.csv",
@@ -1411,7 +1411,7 @@
           }
         ]
       },
-      "title": "Proportion of total adult population with secure tenure rights to land, with legally recognized documentation, and who perceive their rights to land as secure, by sex and by type of tenure"
+      "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
     },
     {
       "path": "1-a-2/data.csv",
@@ -1459,7 +1459,7 @@
           }
         ]
       },
-      "title": "Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics"
+      "title": "Statistical capacity indicator for Sustainable Development Goal monitoring"
     },
     {
       "path": "17-13-1/data.csv",
@@ -1531,7 +1531,7 @@
           }
         ]
       },
-      "title": "Proportion of population using safely managed sanitation services, including a handwashing facility with soap and water"
+      "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
     },
     {
       "path": "1-4-1/data.csv",
@@ -1579,7 +1579,7 @@
           }
         ]
       },
-      "title": "Proportion of national exclusive economic zones managed using ecosystem-based approaches"
+      "title": "Number of countries using ecosystem-based approaches to managing marine areas"
     },
     {
       "path": "4-1-1/data.csv",
@@ -1651,7 +1651,7 @@
           }
         ]
       },
-      "title": "Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status"
+      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
     },
     {
       "path": "17-4-1/data.csv",
@@ -1771,7 +1771,7 @@
           }
         ]
       },
-      "title": "Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups"
+      "title": "Pro-poor public social spending"
     },
     {
       "path": "9-2-1/data.csv",
@@ -2155,7 +2155,7 @@
           }
         ]
       },
-      "title": "Amount of United States dollars committed to public-private and civil society partnerships"
+      "title": "Amount in United States dollars committed to public-private partnerships for infrastructure"
     },
     {
       "path": "15-6-1/data.csv",
@@ -2203,7 +2203,7 @@
           }
         ]
       },
-      "title": "Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems"
+      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
     },
     {
       "path": "3-8-1/data.csv",
@@ -2227,7 +2227,7 @@
           }
         ]
       },
-      "title": "Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)"
+      "title": "Coverage of essential health services"
     },
     {
       "path": "15-1-1/data.csv",
@@ -2371,7 +2371,7 @@
           }
         ]
       },
-      "title": "Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment"
+      "title": "Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025"
     },
     {
       "path": "12-2-1/data.csv",
@@ -2515,7 +2515,7 @@
           }
         ]
       },
-      "title": "Proportion of wastewater safely treated"
+      "title": "Proportion of domestic and industrial wastewater flows safely treated"
     },
     {
       "path": "17-16-1/data.csv",
@@ -2587,7 +2587,7 @@
           }
         ]
       },
-      "title": "Global food loss index"
+      "title": "(a) Food loss index and (b) food waste index"
     },
     {
       "path": "3-9-1/data.csv",
@@ -2779,7 +2779,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement investment promotion regimes for least developed countries"
+      "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
     },
     {
       "path": "1-5-4/data.csv",
@@ -3043,7 +3043,7 @@
           }
         ]
       },
-      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
     },
     {
       "path": "6-5-1/data.csv",
@@ -3067,7 +3067,7 @@
           }
         ]
       },
-      "title": "Degree of integrated water resources management implementation (0 to 100)"
+      "title": "Degree of integrated water resources management"
     },
     {
       "path": "9-4-1/data.csv",
@@ -3259,7 +3259,7 @@
           }
         ]
       },
-      "title": "Index of coastal eutrophication and floating plastic debris density"
+      "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
     },
     {
       "path": "11-6-1/data.csv",
@@ -3283,7 +3283,7 @@
           }
         ]
       },
-      "title": "Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities"
+      "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities"
     },
     {
       "path": "4-6-1/data.csv",
@@ -3595,7 +3595,7 @@
           }
         ]
       },
-      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
     },
     {
       "path": "12-4-2/data.csv",
@@ -3619,7 +3619,7 @@
           }
         ]
       },
-      "title": "Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment"
+      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
     },
     {
       "path": "17-1-2/data.csv",
@@ -3787,7 +3787,7 @@
           }
         ]
       },
-      "title": "Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions"
+      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
     },
     {
       "path": "6-b-1/data.csv",
@@ -3859,7 +3859,7 @@
           }
         ]
       },
-      "title": "Labour share of GDP, comprising wages and social protection transfers"
+      "title": "Labour share of GDP"
     },
     {
       "path": "12-b-1/data.csv",
@@ -3883,7 +3883,7 @@
           }
         ]
       },
-      "title": "Number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools"
+      "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
     },
     {
       "path": "2-2-1/data.csv",
@@ -3931,7 +3931,7 @@
           }
         ]
       },
-      "title": "Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies"
+      "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
     },
     {
       "path": "2-3-2/data.csv",
@@ -4075,7 +4075,7 @@
           }
         ]
       },
-      "title": "Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
+      "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
     },
     {
       "path": "2-3-1/data.csv",
@@ -4291,7 +4291,7 @@
           }
         ]
       },
-      "title": "Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)"
+      "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
     },
     {
       "path": "17-7-1/data.csv",
@@ -4315,7 +4315,7 @@
           }
         ]
       },
-      "title": "Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+      "title": "Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
     },
     {
       "path": "14-3-1/data.csv",
@@ -4483,7 +4483,7 @@
           }
         ]
       },
-      "title": "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex"
+      "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex"
     },
     {
       "path": "17-10-1/data.csv",
@@ -4531,7 +4531,7 @@
           }
         ]
       },
-      "title": "Progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries"
+      "title": "Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries"
     },
     {
       "path": "15-3-1/data.csv",
@@ -4579,7 +4579,7 @@
           }
         ]
       },
-      "title": "Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction"
+      "title": "Proportion of local breeds classified as being at risk of extinction"
     },
     {
       "path": "13-3-1/data.csv",
@@ -4603,7 +4603,7 @@
           }
         ]
       },
-      "title": "Number of countries that have integrated mitigation, adaptation, impact reduction and early warning into primary, secondary and tertiary curricula"
+      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
     },
     {
       "path": "16-7-2/data.csv",
@@ -4771,7 +4771,7 @@
           }
         ]
       },
-      "title": "Average hourly earnings of female and male employees, by occupation, age and persons with disabilities"
+      "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
     },
     {
       "path": "12-c-1/data.csv",
@@ -4795,7 +4795,7 @@
           }
         ]
       },
-      "title": "Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels"
+      "title": "Amount of fossil-fuel subsidies per unit of GDP (production and consumption)"
     },
     {
       "path": "16-1-3/data.csv",
@@ -4843,7 +4843,7 @@
           }
         ]
       },
-      "title": "Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)"
+      "title": "Proportion of schools offering basic services, by type of service"
     },
     {
       "path": "9-c-1/data.csv",
@@ -4915,7 +4915,7 @@
           }
         ]
       },
-      "title": "Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city"
+      "title": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space"
     },
     {
       "path": "5-b-1/data.csv",
@@ -5035,7 +5035,7 @@
           }
         ]
       },
-      "title": "Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services"
+      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
       "path": "10-a-1/data.csv",
@@ -5299,7 +5299,7 @@
           }
         ]
       },
-      "title": "Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country"
+      "title": "Proportion of teachers with the minimum required qualifications, by education level"
     },
     {
       "path": "13-3-2/data.csv",
@@ -5347,7 +5347,7 @@
           }
         ]
       },
-      "title": "Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget"
+      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
     },
     {
       "path": "16-1-4/data.csv",
@@ -5395,7 +5395,7 @@
           }
         ]
       },
-      "title": "Recruitment cost borne by employee as a proportion of yearly income earned in country of destination"
+      "title": "Recruitment cost borne by employee as a proportion of monthly income earned in country of destination"
     },
     {
       "path": "15-9-1/data.csv",
@@ -5419,7 +5419,7 @@
           }
         ]
       },
-      "title": "Progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020"
+      "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting"
     },
     {
       "path": "2-5-1/data.csv",
@@ -5467,7 +5467,7 @@
           }
         ]
       },
-      "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
+      "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
     },
     {
       "path": "16-b-1/data.csv",
@@ -5563,7 +5563,7 @@
           }
         ]
       },
-      "title": "Amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies"
+      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
       "path": "16-10-2/data.csv",
@@ -5611,7 +5611,7 @@
           }
         ]
       },
-      "title": "Number of countries that have implemented well-managed migration policies"
+      "title": "Number of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
     },
     {
       "path": "11-1-1/data.csv",
