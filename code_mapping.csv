@@ -8,3 +8,19 @@ Male,SEX,M
 Female,SEX,F
 Urban,URBANISATION,U
 Rural,URBANISATION,R
+"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries",SERIES,DC_TOF_HLTHL
+Normal value,OBS_STATUS,A
+Thousands,UNIT_MULT,3
+Local currency,UNIT_MEASURE,CUR_LCU
+"Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries",SERIES,DC_TOF_WASHL
+Annual growth rate of real GDP per capita,SERIES,NY_GDP_PCAP
+Quarterly,FREQ,Q
+Annual growth rate of real GDP per employed person,SERIES,SL_EMP_PCAP
+"Proportion of youth not in education, employment or training",SERIES,SL_TLF_NEET
+Mountain Green Cover Index,SERIES,ER_MTN_GRNCVI
+Red List Index ,SERIES,ER_RSK_LST
+Index,UNIT_MEASURE,IX
+Total government revenue as a percentage of GDP,SERIES,GR_G14_GDP
+Proportion of domestic budget funded by domestic taxes,SERIES,GC_GOB_TAXD
+Volume of remittances (in United States dollars) as a proportion of total GDP,SERIES,BX_TRF_PWKR
+Mechanisms in place to enhance policy coherence for sustainable development,SERIES,SG_CPA_SDEVP
