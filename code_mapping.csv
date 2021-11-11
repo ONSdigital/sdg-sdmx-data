@@ -1,7 +1,7 @@
 Text,Dimension,Value
 Estimated value,OBS_STATUS,E
 Units,UNIT_MULT,0
-Percentage (%),UNITS,PT
+Percentage (%),Units,PT
 Index,Units,IX
 "Rate per 1,000 live births",Units,PER_1000_LIVE_BIRTHS
 Male,SEX,M
