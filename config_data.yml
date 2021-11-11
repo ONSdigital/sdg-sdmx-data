@@ -56,12 +56,12 @@ inputs:
   - class: InputWordMeta
     path_pattern: sdmx_meta/*-*.docm
     
-sdmx_output_global:
+sdmx_output:
+  dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
   column_map: column_mapping.csv
   code_map: code_mapping.csv
   sender_id: UK_ONS
   default_values: {REF_AREA: 826, URBANISATION: _T, SEX: _T}
-  global_content_constraints: false
   constrain_data: false
 
 
