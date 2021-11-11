@@ -1,9 +1,9 @@
 Text,Dimension,Value
 Estimated value,OBS_STATUS,E
 Units,UNIT_MULT,0
-Percentage (%),Units,PT
-Index,Units,IX
-"Rate per 1,000 live births",Units,PER_1000_LIVE_BIRTHS
+Percentage (%),UNIT_MEASURE,PT
+Index,UNIT_MEASURE,IX
+"Rate per 1,000 live births",UNIT_MEASURE,PER_1000_LIVE_BIRTHS
 Male,SEX,M
 Female,SEX,F
 Urban,URBANISATION,U
