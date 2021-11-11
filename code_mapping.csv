@@ -1,7 +1,7 @@
 Text,Dimension,Value
 Estimated value,OBS_STATUS,E
 Units,UNIT_MULT,0
-Percentage (%),Units,PT
+Percentage (%),UNITS,PT
 Index,Units,IX
 "Rate per 1,000 live births",Units,PER_1000_LIVE_BIRTHS
 Male,SEX,M
@@ -12,7 +12,7 @@ Rural,URBANISATION,R
 Normal value,OBS_STATUS,A
 Thousands,UNIT_MULT,3
 Local currency,UNIT_MEASURE,CUR_LCU
-Proportion of population below international poverty line,Series,SI_POV_DAY1
+Proportion of population below international poverty line,SERIES,SI_POV_DAY1
 "Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries",SERIES,DC_TOF_WASHL
 Annual growth rate of real GDP per capita,SERIES,NY_GDP_PCAP
 Annual growth rate of real GDP per employed person,SERIES,SL_EMP_PCAP
