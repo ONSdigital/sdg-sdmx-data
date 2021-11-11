@@ -14,7 +14,6 @@ Thousands,UNIT_MULT,3
 Local currency,UNIT_MEASURE,CUR_LCU
 "Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries",SERIES,DC_TOF_WASHL
 Annual growth rate of real GDP per capita,SERIES,NY_GDP_PCAP
-Quarterly,FREQ,Q
 Annual growth rate of real GDP per employed person,SERIES,SL_EMP_PCAP
 "Proportion of youth not in education, employment or training",SERIES,SL_TLF_NEET
 Mountain Green Cover Index,SERIES,ER_MTN_GRNCVI
