@@ -15,12 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "Age",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y_GE15",
-                "Y_GE21",
+                "Proportion of population below international poverty line",
                 ""
               ]
             }
@@ -34,12 +33,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
