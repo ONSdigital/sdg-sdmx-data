@@ -4,3 +4,5 @@ Unit multiplier,UNIT_MULT
 Sex,SEX
 Urban or Rural,URBANISATION
 Age,AGE
+Frequency,FREQ
+Activity,ACTIVITY
